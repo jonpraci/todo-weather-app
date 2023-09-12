@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+Live Preview : https://weather-todos.netlify.app/
+
+this app build with React and redux and i used weather api to get the current weather.
+
+
+<img width="326" alt="Screenshot 2023-09-12 at 4 31 43 PM" src="https://github.com/jonpraci/todo-weather-app/assets/71047979/3f578057-350b-4d93-ba0d-ce849d8a2e84">
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
